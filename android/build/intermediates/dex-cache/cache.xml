@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/014639bd669ee2ca99fdd860c19388a4402e00be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/classes_a55389f74cfebc28b00317765b888acbeab5cd96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/ff3153b9697aac09b4b3a28851476a5d30b097a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/classes_afe90bb78cc97d8f872905d599fd58b5da4845f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/620228be245afff0cae00b1fce234857b3100262/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/classes_e2e21d08f40b4885ff089d1b9cf796e06efd14bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/62f83aea27ebd5533a71c0cd4b9570eb36ec55f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/classes_631a5a16ffc45d72b3446ee23ec13783c5d0f34c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_cd20f976dcd55402ee533f64d6034f7e9e1e7cb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/classes_5a76a62cc17e62356ce65c5abd8b94c441123aa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_832bdc8c82401faa2d9765164905061b20fd3157.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/c92087cf6118e8d461091b651d01c3d982057d2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/classes_0af62f88e2d67d72e90c1e3954ccfa0ce0fb2238.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_fcbe85be0d882154e84297d9a7c19e8285309136.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/add344264eecb9486531df8ef31ea7c41a26cdef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/classes_419eb4aa1648b0b76cc21df29a51c5558696d829.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/6d151041aa324223fb0af4307e43604ce8d98197/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/classes_a6e660c55665ab242cacbc0db728e1aeb13c661b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/cc7e2876150b36bef5204399cb701e369ff07bb8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/classes_d8cf3c3230f7a790d8d880974a09d11fdfda9653.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_f72fd7054616c6ed820bba09457a1925aa8b469e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/b66272a9c5ed27aebeb090c879ea5111672cd2c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/classes_64c12019278ef723662d04952d630016917daafb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/26ea4e077007d8194c3106f487f185e76e667f3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/classes_0f7ca4cd40a6b5117dbe8fd38d681af79819c200.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_5ebb6af9a87afc26d6a02fca787a0b3d5711776b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/608589f43c925f628ac66cb0e4732d967246f241/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/classes_03bdce682246a97cfd3ecaf5ec58ac5d0153c3bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/849c63b876e027f0c121cb3992e524eef64c5723/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/classes_46642b194915efc7a2e660504b6a1b60c31c7bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/12b5a3d3a2201dd76eda54989ca01750b7d68ee3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/classes_ac6cef34c52bdeea1b4afdb297f058280da697b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_75f98a12c20a8c88901e2e88587fc5449f73fe2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/9662ae2db96156c16225dd41d70972816ff738ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/classes_8aad1763ae71b75e0cf0a002643457b72b5b57d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_e83bbcc8eab05550de4a2a477086af8534727d51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/60b45837ebb3b144e6497b76f67326ce7f465c57/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/classes_45783c37baa4b33ab3ef0a9115415094c34e3426.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_f3cd48c6eb0121166540e91d6d38db32733b3b51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/8474e50fab2aeae9bf0da44bada502fb9855e7d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/classes_90c63a64e72db9138f5efa974c1b812ebee14b68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_9d0e705803ae6cd46db7829dc1423fcf89877b79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/62f83aea27ebd5533a71c0cd4b9570eb36ec55f3/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_f098ba52ec85b55121ced47b8f4d842789a215a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/45ee698774670546bf9170d97aa7a5bf1de4710d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/classes_0b25b3d9f1bff2a895e06fb8d5c8c6fbcd801ea3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_582eab0b995e6ec0c85c6aa56a1251d1f97aa533.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankur/.android/build-cache/186fd1f28c9879934a0afe701952d5d84f6e8e45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/media/ankur/New Volume/professional/insta/android/app/build/intermediates/pre-dexed/debug/classes_877de8724ea1b750c68f1e5260dee4544e191675.jar" />
+    </item>
+
+</items>

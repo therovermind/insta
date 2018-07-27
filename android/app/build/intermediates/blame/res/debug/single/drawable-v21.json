@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/ankur/.android/build-cache/186fd1f28c9879934a0afe701952d5d84f6e8e45/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

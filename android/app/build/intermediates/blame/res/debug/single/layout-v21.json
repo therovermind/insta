@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/ankur/.android/build-cache/186fd1f28c9879934a0afe701952d5d84f6e8e45/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/ankur/.android/build-cache/186fd1f28c9879934a0afe701952d5d84f6e8e45/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/ankur/.android/build-cache/186fd1f28c9879934a0afe701952d5d84f6e8e45/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/ankur/.android/build-cache/186fd1f28c9879934a0afe701952d5d84f6e8e45/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

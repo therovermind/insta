@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:2:5-24
+		INJECTED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /home/ankur/.android/build-cache/62f83aea27ebd5533a71c0cd4b9570eb36ec55f3/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.56.0] /home/ankur/.android/build-cache/62f83aea27ebd5533a71c0cd4b9570eb36ec55f3/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/ankur/.android/build-cache/b66272a9c5ed27aebeb090c879ea5111672cd2c4/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ankur/.android/build-cache/014639bd669ee2ca99fdd860c19388a4402e00be/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ankur/.android/build-cache/ff3153b9697aac09b4b3a28851476a5d30b097a3/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ankur/.android/build-cache/620228be245afff0cae00b1fce234857b3100262/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/ankur/.android/build-cache/add344264eecb9486531df8ef31ea7c41a26cdef/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/ankur/.android/build-cache/26ea4e077007d8194c3106f487f185e76e667f3e/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ankur/.android/build-cache/cc7e2876150b36bef5204399cb701e369ff07bb8/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/ankur/.android/build-cache/186fd1f28c9879934a0afe701952d5d84f6e8e45/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/ankur/.android/build-cache/45ee698774670546bf9170d97aa7a5bf1de4710d/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/ankur/.android/build-cache/12b5a3d3a2201dd76eda54989ca01750b7d68ee3/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/ankur/.android/build-cache/cace62bb3dd33b0057c65b0c6ecc568ca91225a1/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:allowBackup
+		ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:icon
+		ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:theme
+		ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.hello.MainActivity
+ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.react:react-native:0.56.0] /home/ankur/.android/build-cache/62f83aea27ebd5533a71c0cd4b9570eb36ec55f3/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /home/ankur/.android/build-cache/b66272a9c5ed27aebeb090c879ea5111672cd2c4/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ankur/.android/build-cache/014639bd669ee2ca99fdd860c19388a4402e00be/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ankur/.android/build-cache/ff3153b9697aac09b4b3a28851476a5d30b097a3/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ankur/.android/build-cache/620228be245afff0cae00b1fce234857b3100262/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/ankur/.android/build-cache/add344264eecb9486531df8ef31ea7c41a26cdef/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/ankur/.android/build-cache/26ea4e077007d8194c3106f487f185e76e667f3e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ankur/.android/build-cache/cc7e2876150b36bef5204399cb701e369ff07bb8/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/ankur/.android/build-cache/186fd1f28c9879934a0afe701952d5d84f6e8e45/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/ankur/.android/build-cache/45ee698774670546bf9170d97aa7a5bf1de4710d/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/ankur/.android/build-cache/60b45837ebb3b144e6497b76f67326ce7f465c57/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/ankur/.android/build-cache/c92087cf6118e8d461091b651d01c3d982057d2a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/ankur/.android/build-cache/608589f43c925f628ac66cb0e4732d967246f241/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/ankur/.android/build-cache/8474e50fab2aeae9bf0da44bada502fb9855e7d0/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/ankur/.android/build-cache/9662ae2db96156c16225dd41d70972816ff738ac/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/ankur/.android/build-cache/849c63b876e027f0c121cb3992e524eef64c5723/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/ankur/.android/build-cache/6d151041aa324223fb0af4307e43604ce8d98197/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/ankur/.android/build-cache/12b5a3d3a2201dd76eda54989ca01750b7d68ee3/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/ankur/.android/build-cache/b66272a9c5ed27aebeb090c879ea5111672cd2c4/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ankur/.android/build-cache/014639bd669ee2ca99fdd860c19388a4402e00be/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ankur/.android/build-cache/ff3153b9697aac09b4b3a28851476a5d30b097a3/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ankur/.android/build-cache/620228be245afff0cae00b1fce234857b3100262/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/ankur/.android/build-cache/add344264eecb9486531df8ef31ea7c41a26cdef/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/ankur/.android/build-cache/26ea4e077007d8194c3106f487f185e76e667f3e/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ankur/.android/build-cache/cc7e2876150b36bef5204399cb701e369ff07bb8/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/ankur/.android/build-cache/186fd1f28c9879934a0afe701952d5d84f6e8e45/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/ankur/.android/build-cache/45ee698774670546bf9170d97aa7a5bf1de4710d/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/ankur/.android/build-cache/45ee698774670546bf9170d97aa7a5bf1de4710d/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/ankur/.android/build-cache/45ee698774670546bf9170d97aa7a5bf1de4710d/output/AndroidManifest.xml:26:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /media/ankur/New Volume/professional/insta/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
