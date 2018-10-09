@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/spatty/.android/build-cache/f271f3a40bb52cbd5d30a7eba9362ea5b092328c/output/res/xml/preferences.xml"
+    },
+    {
         "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/home/ankur/.android/build-cache/62f83aea27ebd5533a71c0cd4b9570eb36ec55f3/output/res/xml/preferences.xml"
     }

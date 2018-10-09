@@ -4,7 +4,15 @@
         "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
         "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]

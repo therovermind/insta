@@ -1,10 +1,18 @@
 [
     {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/media/spatty/New Volume/ankur/professional/insta/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/media/ankur/New Volume/professional/insta/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
         "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
         "source": "/media/ankur/New Volume/professional/insta/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/media/spatty/New Volume/ankur/professional/insta/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     }
 ]

@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
         "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
         "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_btn_colored_text_material.xml"
     },
@@ -12,20 +8,28 @@
         "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_tint_default.xml"
     },
     {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
         "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
         "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_tint_btn_checkable.xml"
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_tint_seek_thumb.xml"
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
         "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_tint_seek_thumb.xml"
     },
     {
         "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
@@ -36,10 +40,6 @@
         "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_tint_edittext.xml"
-    },
-    {
         "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
         "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_tint_spinner.xml"
     },
@@ -48,20 +48,16 @@
         "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_tint_switch_track.xml"
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
         "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_hint_foreground_material_light.xml"
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color/abc_tint_edittext.xml"
     },
     {
         "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
@@ -72,7 +68,87 @@
         "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_primary_text_material_light.xml"
     },
     {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
         "merged": "/media/ankur/New Volume/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
         "source": "/home/ankur/.android/build-cache/d68ba914c75559ac1bcd2e63fac8b465b02169a7/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/media/spatty/New Volume/ankur/professional/insta/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/spatty/.android/build-cache/4cd910d2b4991851d8b4df6c5c4b87f7ab55c331/output/res/color/abc_tint_seek_thumb.xml"
     }
 ]

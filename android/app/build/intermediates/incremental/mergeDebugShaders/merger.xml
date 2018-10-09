@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/media/ankur/New Volume/professional/insta/android/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/media/ankur/New Volume/professional/insta/android/app/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/media/spatty/New Volume/ankur/professional/insta/android/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/media/spatty/New Volume/ankur/professional/insta/android/app/src/debug/shaders"/></dataSet></merger>
