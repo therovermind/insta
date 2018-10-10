@@ -1,7 +1,21 @@
 import React,{ Component } from 'react';
-import { Text,View,Image,StyleSheet } from 'react-native';
+import { Text,View,Image,StyleSheet,Dimensions } from 'react-native';
 
 export default class InstaClone extends Component{
+
+    constructor(){
+        super();
+        this.state={
+            screenWidth:0
+        };
+    }
+
+    componentDidMount(){
+        this.setState({
+            screenWidth: Dimensions.get("window").width
+        })
+    }
+
     render(){
         return(
             <View style={{ flex:1, width:100 + '%',height:50 }}>
@@ -9,15 +23,18 @@ export default class InstaClone extends Component{
                   <Text>Instagram</Text>
                 </View>
                 <View style={styles.userBar}  >
-                  
-                  <Image style ={{height:50+'%', width:40}} source={{uri:"https://i2.wp.com/beebom.com/wp-content/uploads/2016/01/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg?resize=640%2C426"}}/>
-                  <Text style={{flex:1}}>
-                      Ankur singhal
-                  </Text>
-          
+                  <View style={{ alignItems:"center",flexDirection:"row"}}>
+                     <Image style ={styles.userPic} 
+                         source={{uri:"https://i2.wp.com/beebom.com/wp-content/uploads/2016/01/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg?resize=640%2C426"}}
+                      />
+                     <Text style={{marginLeft:7}} >
+                        Ankur singhal
+                     </Text>
+                  </View>
+                  <View><Text style={{fontSize:30, alignItems:"center"}}>...</Text></View>            
                 </View>
                 <Image 
-                  style= { {  width:100 + '%', height:100  }} 
+                  style= { {  width:this.state.screenWidth, height:100  }} 
                   source = {{uri:"https://i2.wp.com/beebom.com/wp-content/uploads/2016/01/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg?resize=640%2C426" }} 
                 />
             </View>
@@ -39,10 +56,15 @@ const styles = StyleSheet.create({
 userBar:{
     height:50,
     width:100+'%',
-    justifyContent:"center",
-    alignItems:'center',
+    justifyContent:"space-between",
+    paddingHorizontal:10,
     flexDirection:"row"
+},
 
+userPic:{
+    height:40,
+    width:40,
+    borderRadius:25
 }
 });
 
