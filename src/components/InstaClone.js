@@ -46,7 +46,9 @@ export default class InstaClone extends Component{
                       <Text style={{fontSize:30, alignItems:"center"}}>...</Text>
                   </View>            
                 </View>
-                <TouchableOpacity onPress={()=>{this.likedToggled()}}>
+                <TouchableOpacity 
+                     activeOpacity={0.9}
+                     onPress={()=>{this.likedToggled()}}>
                 <Image 
                   style= { {  width:this.state.screenWidth, height:imageHieght  }} 
                   source = {{uri:imageURI }} 
@@ -63,6 +65,12 @@ export default class InstaClone extends Component{
                          source={config.images.arrowIcon} 
                     />
 
+                </View>
+                <View style={styles.commentBar}>
+                    <Image style ={[styles.icon,{height:30,width:30}]}
+                         source={config.images.heartIcon} 
+                    />
+                    <Text>128 Likes</Text>
                 </View>
             </View>
         )
@@ -105,9 +113,17 @@ const styles = StyleSheet.create({
 
    icon:{
        marginLeft:10,
-       
-       
-   }
+       },
+    
+    commentBar:{
+        width: 100 + "%",
+        borderBottomWidth: StyleSheet.hairlineWidth,
+        borderTopWidth: StyleSheet.hairlineWidth,
+        borderColor: "rgb(233,233,233)",
+        height: config.stlyleConstant.rowHeight,
+        flexDirection:"row",
+        alignItems:"center"
+    }
 })
 
 
