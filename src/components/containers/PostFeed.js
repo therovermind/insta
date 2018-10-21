@@ -1,4 +1,4 @@
-import React ,{Component} from 'react';
+import React ,{ Component } from 'react';
 import { Post } from '../presentation';
 import { FlatList } from 'react-native';
 
@@ -11,7 +11,7 @@ export default class PostFeed extends Component {
     }
 
     _renderPost({item}){
-        return <Post />;
+        return (<Post />);
     };
 
     render(){
