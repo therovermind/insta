@@ -1,6 +1,8 @@
 import React,{ Component } from 'react';
 import { Text,View,Image,StyleSheet,Dimensions,TouchableOpacity } from 'react-native';
-import config from '../config';
+import  { PostFeed } from './containers';
+
+
 
 export default class InstaClone extends Component{
 
@@ -12,7 +14,10 @@ export default class InstaClone extends Component{
             <View style={{ flex:1, width:100 + '%',height:50 }}>
                 <View style={styles.NavigationTap}>
                   <Text>Instagram</Text>
+                  
                 </View>
+
+                <PostFeed />
             </View>
         )
     }

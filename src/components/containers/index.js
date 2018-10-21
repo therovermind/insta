@@ -1,5 +1,5 @@
-import postFeed from './postFeed.js'
+import PostFeed from './PostFeed'
 
 export {
-    postFeed
-}
+    PostFeed
+};

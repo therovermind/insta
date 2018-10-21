@@ -1,5 +1,5 @@
-import post from './post.js'
+import Post from './Post.js'
 
 export{
-    post
+    Post
 }

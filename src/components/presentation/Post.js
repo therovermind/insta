@@ -1,8 +1,8 @@
 import React,{ Component } from 'react';
 import { Text,View,Image,StyleSheet,Dimensions,TouchableOpacity } from 'react-native';
-import config from '../config';
+import config from '../../config';
 
-export default class post extends Component{
+export default class Post extends Component{
 
     constructor(){
         super();
@@ -30,9 +30,7 @@ export default class post extends Component{
         return(
             
             <View style={{ flex:1, width:100 + '%',height:50 }}>
-                <View style={styles.NavigationTap}>
-                  <Text>Instagram</Text>
-                </View>
+               
                 <View style={styles.userBar}  >
                   <View style={{ alignItems:"center",flexDirection:"row"}}>
                      <Image style ={styles.userPic} 
