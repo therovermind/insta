@@ -2,10 +2,11 @@ import React,{ Component } from 'react';
 import { Text,View,StyleSheet,TouchableOpacity } from 'react-native';
 
 
+
 export default class Login extends Component{
 
      login(){
-         alert("baja daala")
+         this.props.navigation.navigate("main")
      }
 
      render(){
