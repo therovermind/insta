@@ -4,7 +4,7 @@ import  { PostFeed } from '../containers';
 
 
 
-export default class InstaClone extends Component{
+export default class MainFeed extends Component{
 
     render(){
 
